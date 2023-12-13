@@ -1,0 +1,46 @@
+.footer{
+    display: flex;
+padding: 64px 165px;
+gap: 125px;
+background:#263238;
+}
+.servis{
+    padding-top: 40px;
+    color:#F5F7FA;
+font-size: 14px;
+line-height: 20px;
+}
+.footer__text {
+    margin-bottom: 30px;
+    color:#FFF;
+font-size: 20px;
+font-weight: 600;
+line-height: 28px;
+}
+.list__iteam {
+    gap: 10px;
+    color: #F5F7FA;
+font-size: 14px;
+line-height: 20px;
+}
+.send span{
+    color:#FFF;
+font-size: 20px;
+font-weight: 600;
+line-height: 28px;
+}
+.send input{
+    width: 255px;
+height: 40px;
+border-radius: 8px;
+opacity: 0.2;
+background: #FFF;
+color:#D9DBE1;
+font-size: 14px;
+line-height: 20px;
+}
+.email{
+    position:absolute;
+    top: 452.4rem;
+    right: 20rem;
+}
